@@ -1,75 +1,34 @@
-# README Template
 
-## Comandos básicos GIT
-Debe crear un TOKEN con todos los permisos y usarlo como contraseña
-
-```
-  git clone <url>
-  git add .
-  git commit -m "mensaje log"
-  git push
-```
-
+NOTA: por cada modificación, subir al repositorio (hacer commit/push).
 El presente documento es un pequeño template como primer guía o paso para tener en un repositorio. Su contenido se ve reflejado en la siguiente Tabla:
 
 NOTA: por cada modificación, subir al repositorio (hacer commit/push).
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Tabla de Contenidos</summary>
-  <ol>
-    <li><a href="#imagenes">Imagenes</a></li>
-    <li><a href="#enlaces">Enlaces</a></li>
-    <li><a href="#codigos">Códigos</a></li>
-    <li><a href="#tablas">Tablas</a></li>
-    <li><a href="#checklist">Checklist</a></li>
-  </ol>
-</details>
+Tabla de Contenidos
+1. Imagenes
+2. Enlaces
+3. Códigos
+4. Tablas
+5. Checklist
 
 ## Imagenes
+Para insertar imágenes, es tal cual como si lo hiciera en HTML, usando el tag `<img src='...' />`
 
-Para insertar imágenes, es tal cual como si lo hiciera en HTML, usando el tag `<img src='...' \>` 
-
-TO-DO: insertar otra imagen
-
-<div align="center">
-  <kbd>
-    <img style='width:400px' src="https://images7.memedroid.com/images/UPLOADED530/61e494b96c3b6.jpeg" />
-  </kbd>
-</div>
+<img src="https://www.espol.edu.ec/sites/default/files/espol_logo.png" width="200" />
 
 ## Enlaces
-Para insertar enlaces como los mostrados a continuación, debe poner entre corchetes el nombre seguido del enlace entre paréntesis, `[nombre](http://enlace)` (TO-DO: agregar un nuevo link)
-* [ESPOL](https://www.espol.edu.ec/)
-* [AulaVirtual](https://aulavirtual.espol.edu.ec/)
-
+Para insertar enlaces como los mostrados a continuación, debe poner entre corchetes el nombre seguido del enlace entre paréntesis, `[nombre](http://enlace)`
+- [ESPOL](https://www.espol.edu.ec)
+- [AulaVirtual](https://www.aulasvirtuales.espol.edu.ec)
+- [GitHub](https://github.com)
 
 ## Códigos
+Para insertar código debe estar encerrado entre triple comilla simple invertida (```) y escribir lo que necesite
 
-Para insertar código debe estrar encerrado entre triple comilla simple invertida (\`\`\`) y escribir lo que necesite 
-
-TO-DO: modificar código 
-
-```
+```c
 #include <stdio.h>
 
 int main(){
-  printf("Hola mundo");
+  printf("Hola mundo desde Sistemas Operativos!\n");
+  return 0;
 }
-```
-
-## Tablas 
-TO-DO: añadir dos filas adicionales
-
-| Nombre | Apellido |
-| ------------- | ------------- |
-| Rafael | Rivadeneira |
-
-
-## To-do 
-TO-DO: agregar dos elemento adicional
-
-- [x] Actualizar foto de perfil
-- [ ] ~~Descargar mapa espol~~
-- [x] Llenar encuesta!
-
