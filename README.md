@@ -14,7 +14,7 @@ Tabla de Contenidos
 ## Imagenes
 Para insertar imágenes, es tal cual como si lo hiciera en HTML, usando el tag `<img src='...' />`
 
-<img src="https://mx.pinterest.com/gablancmir/random/width="200"/>
+![no se](estuvistellorando.jpg)
 
 ## Enlaces
 Para insertar enlaces como los mostrados a continuación, debe poner entre corchetes el nombre seguido del enlace entre paréntesis, `[nombre](http://enlace)`
