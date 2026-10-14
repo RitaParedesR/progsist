@@ -14,12 +14,12 @@ Tabla de Contenidos
 ## Imagenes
 Para insertar imágenes, es tal cual como si lo hiciera en HTML, usando el tag `<img src='...' />`
 
-<img src="https://www.espol.edu.ec/sites/default/files/espol_logo.png" width="200" />
+<img src="https://mx.pinterest.com/gablancmir/random/width="200"/>
 
 ## Enlaces
 Para insertar enlaces como los mostrados a continuación, debe poner entre corchetes el nombre seguido del enlace entre paréntesis, `[nombre](http://enlace)`
 - [ESPOL](https://www.espol.edu.ec)
-- [AulaVirtual](https://www.aulasvirtuales.espol.edu.ec)
+- [AulaVirtual](https://aulavirtual.espol.edu.ec/)
 - [GitHub](https://github.com)
 
 ## Códigos
